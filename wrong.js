@@ -1,0 +1,5 @@
+let frodo Rdad = "wrong"
+let 1 = "wrong"
+let 123414 = "wrong"
+let A a = "wrong"
+let - = "wrong"
